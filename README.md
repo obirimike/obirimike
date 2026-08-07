@@ -28,16 +28,6 @@ Building useful software, solving problems with code, and continuously learning.
 
 ---
 
-## 🖼️ Developer Banner
-
-<div align="center">
-
-<img src="./assets/obirimike-banner.png" alt="OBIRIMIKE - Software Developer Banner" width="100%"/>
-
-</div>
-
----
-
 ## 👨🏾‍💻 About Me
 
 I'm a Computer Science student and software developer passionate about
