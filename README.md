@@ -103,13 +103,15 @@ turning ideas into real-world projects.
 ## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
 </p>
 
 - MongoDB
 - PostgreSQL
 - MySQL
 - Redis
+- Firebase
+-Supabase
 - SQL
 - Database Design
 - Data Modeling
@@ -128,7 +130,6 @@ turning ideas into real-world projects.
 - Prolog
 - Logical Reasoning
 - Rule-Based Systems
-- Machine Learning Fundamentals
 - AI-assisted Development
 
 ---
@@ -136,7 +137,7 @@ turning ideas into real-world projects.
 ## 🐳 DevOps, Cloud & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,nginx,netlifly,render" />
 </p>
 
 - Git
@@ -157,7 +158,7 @@ turning ideas into real-world projects.
 ## 🧰 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,git,gitlab" />
 </p>
 
 - Visual Studio Code
