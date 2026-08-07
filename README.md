@@ -1,12 +1,381 @@
-- 👋 Hi, I’m Addo Michael Obiri
-- 👀 I’m interested in software engineering/web/mobile app development, networking...
-- 🌱  JavaScript, Node.js, React Native, Tailwind, FastAPI, MongoDB, PostgreSQL, TypeScript, and Git Actions...
-- 💞️ I’m looking to collaborate on App and Website building ...
-- 📫 How to reach me michaelobiri022@gamil.com...
-- 😄 Pronouns: he/him...
-- ⚡ Fun fact: I am a passionate fan of FC Barcelona and Shatta Wale...
+<div align="center">
 
-<!---
-obirimike/obirimike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋🏾 Hi, I'm Michael Addo
+
+### 💻 Software Developer | Computer Science Student | Problem Solver
+
+Building useful software, solving problems with code, and continuously learning.
+
+<p>
+  <a href="https://github.com/obirimike">
+    <img src="https://img.shields.io/badge/GitHub-obirimike-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/michael-addo-k23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Addo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/kweku_mk">
+    <img src="https://img.shields.io/badge/X-kweku__mk-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:michaelobiri022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://mikeportfolio233.com">
+    <img src="https://img.shields.io/badge/Portfolio-mikeportfolio233.com-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🖼️ Developer Banner
+
+<div align="center">
+
+<img src="./assets/obirimike-banner.png" alt="OBIRIMIKE - Software Developer Banner" width="100%"/>
+
+</div>
+
+---
+
+## 👨🏾‍💻 About Me
+
+I'm a Computer Science student and software developer passionate about
+building modern, practical, and user-focused software.
+
+I enjoy working across different areas of software development — from
+designing interfaces and building web and mobile applications to
+developing APIs, working with databases, exploring AI, and deploying
+applications.
+
+I'm constantly learning, experimenting with new technologies, and
+turning ideas into real-world projects.
+
+- 🎓 Computer Science Student
+- 💻 Software Developer
+- 🌐 Web & Full-Stack Development
+- 📱 Mobile Application Development
+- 🤖 AI & Intelligent Systems Enthusiast
+- 🏗️ Interested in Software Architecture & System Design
+- ☁️ Exploring Cloud & DevOps
+- 🚀 Always building, learning, and improving
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,cpp,html,css" />
+</p>
+
+`Java` `JavaScript` `TypeScript` `Python` `PHP` `C++` `HTML` `CSS`
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,javascript,typescript" />
+</p>
+
+- React
+- React Native
+- Vite
+- Expo
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Responsive UI Development
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" />
+</p>
+
+- Node.js
+- Express.js
+- PHP
+- REST APIs
+- JWT Authentication
+- Axios
+- API Development
+- Server-side Application Development
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
+- SQL
+- Database Design
+- Data Modeling
+
+---
+
+## 🤖 AI & Intelligent Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Artificial Intelligence
+- Expert Systems
+- Knowledge-Based Systems
+- Prolog
+- Logical Reasoning
+- Rule-Based Systems
+- Machine Learning Fundamentals
+- AI-assisted Development
+
+---
+
+## 🐳 DevOps, Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,nginx" />
+</p>
+
+- Git
+- GitHub
+- GitLab
+- Docker
+- Docker Compose
+- Linux
+- AWS
+- Netlify
+- Render
+- EAS Build
+- Environment Configuration
+- Deployment & Hosting
+
+---
+
+## 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,git,github" />
+</p>
+
+- Visual Studio Code
+- Visual Studio
+- Android Studio
+- Postman
+- Git
+- GitHub
+- GitLab
+- npm
+- Maven
+
+---
+
+# 🚀 Featured Projects
+
+## 🏢 BelDepot App
+
+**Status:** 🚧 In Production / Development
+
+A mobile booking application designed to simplify service booking
+through a modern mobile experience.
+
+**Tech:** `React Native` `Expo` `Django` `Axios`
+
+> Backend technology can be updated here if the production implementation changes.
+
+---
+
+## 🛒 UGMart — Campus Marketplace
+
+**Status:** 🚧 In Development
+
+A campus marketplace platform designed to allow university students
+to buy and sell products within their campus community.
+
+**Tech:** `React` `Vite` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 🏫 School Management System
+
+**Status:** 🚧 In Development
+
+A modern school management platform focused on managing students,
+teachers, academic activities, and administrative processes.
+
+**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+---
+
+## 📚 Bookly — SaaS Platform
+
+**Status:** 🚧 In Development
+
+A SaaS project focused on building a modern platform for managing
+bookings and related services.
+
+**Tech:** `React` `Node.js` `PostgreSQL` `Docker` `Redis`
+
+---
+
+# 🌐 Web Projects
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| 🏫 **JHS School Website** | ✅ Completed | Responsive school website |
+| 💼 **Portfolio Website** | ✅ Completed | Personal developer portfolio |
+| 🏢 **OnPoint Website** | ✅ Completed | Responsive business website |
+| 🏢 **OptiTech Solutions Website** | 🚧 In Development | Technology company website |
+| 👤 **Profile Card** | ✅ Completed | Responsive UI/profile card |
+
+---
+
+# 🧠 Academic & Experimental Projects
+
+### ☕ Cafeteria Menu Advisor — Expert System
+
+**Status:** ✅ Completed
+
+An expert system that provides cafeteria menu recommendations using
+a knowledge base and logical reasoning.
+
+**Tech:** `React` `Vite` `Python` `Prolog`
+
+---
+
+### 🧮 Calculator App
+
+**Status:** ✅ Completed
+
+A simple interactive calculator application built to practice
+frontend development and JavaScript programming logic.
+
+---
+
+### 🌦️ Weather App
+
+**Status:** ✅ Completed
+
+A weather application that retrieves and displays weather information
+using an external weather API.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=obirimike&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Developer Journey
+
+```text
+          LEARN
+            │
+            ▼
+          BUILD
+            │
+            ▼
+       SOLVE PROBLEMS
+            │
+            ▼
+       LEARN FROM FAILURES
+            │
+            ▼
+         IMPROVE
+            │
+            ▼
+       BUILD BETTER
+            │
+            └──────────────► REPEAT
+```
+
+### Areas I'm Growing In
+
+- 🏗️ Software Architecture
+- 🔌 Backend Engineering
+- 🌐 Full-Stack Development
+- 📱 Mobile Development
+- 🗄️ Database Engineering
+- ☁️ Cloud & DevOps
+- 🔐 Application Security
+- 🤖 Artificial Intelligence
+- 📐 System Design
+
+---
+
+# 🎯 Current Goals
+
+- [ ] Build and deploy more production-ready applications
+- [ ] Strengthen my software engineering fundamentals
+- [ ] Improve backend engineering skills
+- [ ] Learn advanced system design and architecture
+- [ ] Improve cloud and DevOps knowledge
+- [ ] Contribute to open-source projects
+- [ ] Build scalable and maintainable software
+- [ ] Explore AI-powered applications
+- [ ] Continue growing as a Computer Scientist
+
+---
+
+# 💭 Favorite Quote
+
+> **"The best way to predict the future is to invent it."**
+>
+> — Alan Kay
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/obirimike">
+<img src="https://img.shields.io/badge/GitHub-obirimike-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/michael-addo-k23/">
+<img src="https://img.shields.io/badge/LinkedIn-Michael%20Addo-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/kweku_mk">
+<img src="https://img.shields.io/badge/X-kweku__mk-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://mikeportfolio233.com">
+<img src="https://img.shields.io/badge/Portfolio-mikeportfolio233.com-6C5CE7?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+<a href="mailto:michaelobiri022@gmail.com">
+<img src="https://img.shields.io/badge/Email-michaelobiri022%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building. Learning. Innovating.
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
