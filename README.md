@@ -57,10 +57,10 @@ turning ideas into real-world projects.
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,cpp,html,css,c#" />
 </p>
 
-`Java` `JavaScript` `TypeScript` `Python` `PHP` `C++` `HTML` `CSS`
+`Java` `JavaScript` `TypeScript` `Python` `PHP` `C++` `C#` `HTML` `CSS`
 
 ---
 
