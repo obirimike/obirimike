@@ -188,7 +188,7 @@ through a modern mobile experience.
 
 ---
 
-## 🛒 UGMart — Campus Marketplace
+## [🛒 UGMart — Campus Marketplace](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
 
 **Status:** 🚧 In Development
 
@@ -199,7 +199,7 @@ to buy and sell products within their campus community.
 
 ---
 
-## 🏫 School Management System
+## 🏫 [School Management System](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
 
 **Status:** 🚧 In Development
 
@@ -210,7 +210,7 @@ teachers, academic activities, and administrative processes.
 
 ---
 
-## 📚 Bookly — SaaS Platform
+## [📚 Bookly — SaaS Platform](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
 
 **Status:** 🚧 In Development
 
@@ -227,15 +227,15 @@ bookings and related services.
 |---------|--------|-------------|
 | 🏫 **JHS School Website** | ✅ Completed | Responsive school website |
 | [💼 **Portfolio Website**](https://github.com/obirimike/Portfolio-website) | ✅ Completed | Personal developer portfolio |
-| [🏢 **OnPoint Website**](https://github.com/obirimike/OnPoint-Website.git)) | ✅ Completed | Responsive business website |
-| [🏢 **OptiTech Solutions Website**](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu-Advisor) | 🚧 In Development | Technology company website |
+| [🏢 **OnPoint Website**](https://github.com/obirimike/OnPoint-Website.git) | ✅ Completed | Responsive business website |
+| [🏢 **OptiTech Solutions Website**](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu) | 🚧 In Development | Technology company website |
 | [👤 **Profile Card**](https://github.com/obirimike/Profile-Card) | ✅ Completed | Responsive UI/profile card |
 
 ---
 
 # 🧠 Academic & Experimental Projects
 
-### ☕ Cafeteria Menu Advisor — Expert System
+### [☕ Cafeteria Menu Advisor — Expert System](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
 
 **Status:** ✅ Completed
 
@@ -246,7 +246,7 @@ a knowledge base and logical reasoning.
 
 ---
 
-### 🧮 Calculator App
+### [🧮 Calculator App](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
 
 **Status:** ✅ Completed
 
@@ -255,7 +255,7 @@ frontend development and JavaScript programming logic.
 
 ---
 
-### 🌦️ Weather App
+### [🌦️ Weather App](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
 
 **Status:** ✅ Completed
 
