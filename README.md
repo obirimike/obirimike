@@ -315,7 +315,7 @@ using an external weather API.
 
 # 💭 Favorite Quote
 
-> **"I know I will make it so I never stop believing!."**
+> **"I know I will MAKE it, so I will NEVER stop believing."**
 >
 > — Myself
 
