@@ -233,7 +233,7 @@ bookings and related services.
 
 # 🧠 Academic & Experimental Projects
 
-### [☕ Cafeteria Menu Advisor — Expert System](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
+### [☕ Cafeteria Menu Advisor — Expert System](https://github.com/OptiTech-Solutions/DCIT313-OptiTech-Cafeteria-Menu-Advisor.git)
 
 **Status:** ✅ Completed
 
@@ -244,7 +244,7 @@ a knowledge base and logical reasoning.
 
 ---
 
-### [🧮 Calculator App](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
+### [🧮 Calculator App](https://github.com/obirimike/Calculator-App.git)
 
 **Status:** ✅ Completed
 
@@ -253,7 +253,7 @@ frontend development and JavaScript programming logic.
 
 ---
 
-### [🌦️ Weather App](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
+### [🌦️ Weather App](https://github.com/obirimike/Weather-App.git)
 
 **Status:** ✅ Completed
 
@@ -265,10 +265,10 @@ using an external weather API.
 # 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://img.shields.io/github/contributions/obirimike?style=for-the-badge&label=contributions&logo=github&logoColor=white" alt="Contributions" />
+
 <img src="https://img.shields.io/github/followers/obirimike?style=for-the-badge&label=Followers&logo=github&logoColor=white" alt="Followers" />
 <img src="https://img.shields.io/github/stars/obirimike?style=for-the-badge&label=Stars&logo=github&logoColor=white" alt="Stars" />
-<img src="https://img.shields.io/github/streak/obirimike?style=for-the-badge&label=Issues&logo=github&logoColor=white" alt="Issues" />
+
 
 </div>
 
