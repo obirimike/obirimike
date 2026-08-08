@@ -225,11 +225,11 @@ bookings and related services.
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| 🏫 **La St Paul's School Website** | ✅ Completed | Responsive school website |
-| 💼 **Portfolio Website** | ✅ Completed | Personal developer portfolio |
-| 🏢 **OnPoint Website** | ✅ Completed | Responsive business website |
-| 🏢 **OptiTech Solutions Website** | 🚧 In Development | Technology company website |
-| 👤 **Profile Card** | ✅ Completed | Responsive UI/profile card |
+| 🏫 **JHS School Website** | ✅ Completed | Responsive school website |
+| [💼 **Portfolio Website**](https://github.com/obirimike/Portfolio-website) | ✅ Completed | Personal developer portfolio |
+| [🏢 **OnPoint Website**](https://github.com/obirimike/COINBASE-CLONE) | ✅ Completed | Responsive business website |
+| [🏢 **OptiTech Solutions Website**](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu-Advisor) | 🚧 In Development | Technology company website |
+| [👤 **Profile Card**](https://github.com/obirimike/Profile-Card) | ✅ Completed | Responsive UI/profile card |
 
 ---
 
@@ -268,9 +268,9 @@ using an external weather API.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=obirimike&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://img.shields.io/github/followers/obirimike?style=for-the-badge&label=Followers&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/obirimike?style=for-the-badge&label=Stars&logo=github&logoColor=white" alt="Stars" />
+<img src="https://img.shields.io/github/issues/obirimike?style=for-the-badge&label=Issues&logo=github&logoColor=white" alt="Issues" />
 
 </div>
 
