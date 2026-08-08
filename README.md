@@ -223,7 +223,7 @@ bookings and related services.
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| 🏫 **JHS School Website** | ✅ Completed | Responsive school website |
+| [🏫 **JHS School Website**](https://github.com/obirimike/School-Website.git) | ✅ Completed | Responsive school website |
 | [💼 **Portfolio Website**](https://github.com/obirimike/Portfolio-website) | ✅ Completed | Personal developer portfolio |
 | [🏢 **OnPoint Website**](https://github.com/obirimike/OnPoint-Website.git) | ✅ Completed | Responsive business website |
 | [🏢 **OptiTech Solutions Website**](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu) | 🚧 In Development | Technology company website |
