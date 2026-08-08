@@ -223,7 +223,7 @@ bookings and related services.
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| [🏫 **JHS School Website**](https://github.com/obirimike/School-Website.git) | ✅ Completed | Responsive school website |
+| [🏫 **School Website**](https://github.com/obirimike/School-Website.git) | ✅ Completed | Responsive school website |
 | [💼 **Portfolio Website**](https://github.com/obirimike/Portfolio-website) | ✅ Completed | Personal developer portfolio |
 | [🏢 **OnPoint Website**](https://github.com/obirimike/OnPoint-Website.git) | ✅ Completed | Responsive business website |
 | [🏢 **OptiTech Solutions Website**](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu) | 🚧 In Development | Technology company website |
@@ -259,18 +259,6 @@ frontend development and JavaScript programming logic.
 
 A weather application that retrieves and displays weather information
 using an external weather API.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/obirimike?style=for-the-badge&label=Followers&logo=github&logoColor=white" alt="Followers" />
-<img src="https://img.shields.io/github/stars/obirimike?style=for-the-badge&label=Stars&logo=github&logoColor=white" alt="Stars" />
-
-
-</div>
 
 ---
 
@@ -327,9 +315,9 @@ using an external weather API.
 
 # 💭 Favorite Quote
 
-> **"The best way to predict the future is to invent it."**
+> **"I know I will make it so I never stop believing!."**
 >
-> — Alan Kay
+> — Myself
 
 ---
 
