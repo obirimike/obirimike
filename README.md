@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏾 Hi, I'm Michael Addo
+# 👋 Hi, I'm Michael Addo
 
 ### 💻 Software Developer | Computer Science Student | Problem Solver
 
@@ -121,7 +121,7 @@ turning ideas into real-world projects.
 ## 🤖 AI & Intelligent Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,prolog" />
 </p>
 
 - Artificial Intelligence
