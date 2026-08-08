@@ -184,8 +184,6 @@ through a modern mobile experience.
 
 **Tech:** `React Native` `Expo` `Django` `Axios`
 
-> Backend technology can be updated here if the production implementation changes.
-
 ---
 
 ## [🛒 UGMart — Campus Marketplace](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu)
@@ -267,10 +265,10 @@ using an external weather API.
 # 📊 GitHub Statistics
 
 <div align="center">
-
+<img src="https://img.shields.io/github/contributions/obirimike?style=for-the-badge&label=contributions&logo=github&logoColor=white" alt="Contributions" />
 <img src="https://img.shields.io/github/followers/obirimike?style=for-the-badge&label=Followers&logo=github&logoColor=white" alt="Followers" />
 <img src="https://img.shields.io/github/stars/obirimike?style=for-the-badge&label=Stars&logo=github&logoColor=white" alt="Stars" />
-<img src="https://img.shields.io/github/issues/obirimike?style=for-the-badge&label=Issues&logo=github&logoColor=white" alt="Issues" />
+<img src="https://img.shields.io/github/streak/obirimike?style=for-the-badge&label=Issues&logo=github&logoColor=white" alt="Issues" />
 
 </div>
 
