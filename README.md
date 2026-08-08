@@ -111,7 +111,7 @@ turning ideas into real-world projects.
 - MySQL
 - Redis
 - Firebase
--Supabase
+- Supabase
 - SQL
 - Database Design
 - Data Modeling
@@ -206,7 +206,7 @@ to buy and sell products within their campus community.
 A modern school management platform focused on managing students,
 teachers, academic activities, and administrative processes.
 
-**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+**Tech:** `React` `Node.js` `MySQL` `AWS`
 
 ---
 
@@ -217,7 +217,7 @@ teachers, academic activities, and administrative processes.
 A SaaS project focused on building a modern platform for managing
 bookings and related services.
 
-**Tech:** `React` `Node.js` `PostgreSQL` `Docker` `Redis`
+**Tech:** `React` `Node.js` `PostgreSQL` `Docker` `Redis` `WebSockets` 
 
 ---
 
@@ -225,7 +225,7 @@ bookings and related services.
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| 🏫 **JHS School Website** | ✅ Completed | Responsive school website |
+| 🏫 **La St Paul's School Website** | ✅ Completed | Responsive school website |
 | 💼 **Portfolio Website** | ✅ Completed | Personal developer portfolio |
 | 🏢 **OnPoint Website** | ✅ Completed | Responsive business website |
 | 🏢 **OptiTech Solutions Website** | 🚧 In Development | Technology company website |
