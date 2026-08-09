@@ -193,7 +193,7 @@ through a modern mobile experience.
 A campus marketplace platform designed to allow university students
 to buy and sell products within their campus community.
 
-**Tech:** `React` `Vite` `Node.js` `Express.js` `MongoDB`
+**Tech:** `React` `Vite` `Node.js` `Express.js` `MongoDB` `Socket.IO`
 
 ---
 
