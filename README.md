@@ -8,19 +8,19 @@ Building useful software, solving problems with code, and continuously learning.
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://img.shields.io/badge/GitHub-obirimike-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/michael-addo-k23/">
-    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Addo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/kweku_mk">
-    <img src="https://img.shields.io/badge/X-kweku__mk-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:michaelobiri022@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://mikeportfolio233.com">
-    <img src="https://img.shields.io/badge/Portfolio-mikeportfolio233.com-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
