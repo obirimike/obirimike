@@ -8,19 +8,19 @@ Building useful software, solving problems with code, and continuously learning.
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://img.shields.io/badge/GitHub-obirimike-EA6352?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-obirimike-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/michael-addo-k23/">
-    <img src="https://img.shields.io/badge/LinkedIn-michael%addo-F2E00?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-michael%addo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/kweku_mk">
-    <img src="https://img.shields.io/badge/X-kweku_mk-67800?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-kweku_mk-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:michaelobiri022@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://mikeportfolio233.com">
-    <img src="https://img.shields.io/badge/Portfolio-michaeladdo978.com-A34G89?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-michaeladdo97-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -30,10 +30,10 @@ Building useful software, solving problems with code, and continuously learning.
 
 ## 👨🏾‍💻 About Me
 
-I'm a Computer Science student and software developer passionate about
-building modern, practical, and user-focused software.
+I'm a Computer Science student and software developer who loves
+modern, practical, and user-focused software.
 
-I enjoy working across different areas of software development — from
+I enjoy working across different areas of software development; from
 designing interfaces and building web and mobile applications to
 developing APIs, working with databases, exploring AI, and deploying
 applications.
@@ -60,7 +60,7 @@ turning ideas into real-world projects.
   <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,cpp,html,css,c#" />
 </p>
 
-`Java` `JavaScript` `TypeScript` `Python` `PHP` `C++` `C#` `HTML` `CSS`
+`Java` `JavaScript` `TypeScript` `Python` `PHP` `C++` `HTML` `CSS` `C#`
 
 ---
 
