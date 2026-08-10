@@ -8,13 +8,13 @@ Building useful software, solving problems with code, and continuously learning.
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-obirimike-763552?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/michael-addo-k23/">
-    <img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-michaael%addo-00000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/kweku_mk">
-    <img src="https://img.shields.io/badge/X?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-kweku_mk-0000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:michaelobiri022@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
