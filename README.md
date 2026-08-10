@@ -8,10 +8,10 @@ Building useful software, solving problems with code, and continuously learning.
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://img.shields.io/badge/GitHub-obirimike-76352?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-obirimike-EA6352?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/michael-addo-k23/">
-    <img src="https://img.shields.io/badge/LinkedIn-michael%addo-00000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-michael%addo-F2E00?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/kweku_mk">
     <img src="https://img.shields.io/badge/X-kweku_mk-67800?style=for-the-badge&logo=x&logoColor=white"/>
@@ -20,7 +20,7 @@ Building useful software, solving problems with code, and continuously learning.
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://mikeportfolio233.com">
-    <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-michaeladdo978.com-A34G89?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
