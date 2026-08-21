@@ -19,7 +19,7 @@ Building useful software, solving problems with code, and continuously learning.
   <a href="mailto:michaelobiri022@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://mikeportfolio233.com">
+  <a href="https://michaelobiri.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-michaeladdo97-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
