@@ -224,7 +224,7 @@ bookings and related services.
 | Project | Status | Description |
 |---------|--------|-------------|
 | [🏫 **School Website**](https://github.com/obirimike/School-Website.git) | ✅ Completed | Responsive school website |
-| [💼 **Portfolio Website**](https://github.com/obirimike/Portfolio-website) | ✅ Completed | Personal developer portfolio |
+| [💼 **Portfolio Website**](https://michaelobiri.vercel.app) | ✅ Completed | Personal developer portfolio |
 | [🏢 **OnPoint Website**](https://github.com/obirimike/OnPoint-Website.git) | ✅ Completed | Responsive business website |
 | [🏢 **OptiTech Solutions Website**](https://github.com/obirimike/DCIT313-OptiTech-Cafeteria-Menu) | 🚧 In Development | Technology company website |
 | [👤 **Profile Card**](https://github.com/obirimike/Profile-Card) | ✅ Completed | Responsive UI/profile card |
@@ -337,8 +337,8 @@ using an external weather API.
 <img src="https://img.shields.io/badge/X-kweku__mk-000000?style=for-the-badge&logo=x"/>
 </a>
 
-<a href="https://mikeportfolio233.com">
-<img src="https://img.shields.io/badge/Portfolio-mikeportfolio233.com-6C5CE7?style=for-the-badge&logo=google-chrome"/>
+<a href="https://michaelobiri.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-michaelobiri-6C5CE7?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 <a href="mailto:michaelobiri022@gmail.com">
