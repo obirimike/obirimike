@@ -21,6 +21,20 @@ Building useful software, solving problems with code, and continuously learning.
   </a>
 </p>
 
+<!-- GitHub profile stats: views, streak, top languages -->
+
+<p>
+  <a href="https://github.com/obirimike">
+    <img src="https://komarev.com/ghpvc/?username=obirimike&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/obirimike">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/obirimike">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=tokyonight" alt="Top languages" />
+  </a>
+</p>
+
 </div>
 
 ---
