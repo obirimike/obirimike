@@ -21,17 +21,11 @@ Building useful software, solving problems with code, and continuously learning.
   </a>
 </p>
 
-<!-- GitHub profile stats: views, streak, top languages -->
+<!-- Keep profile views at the top; move streaks & top-langs to the end -->
 
 <p>
   <a href="https://github.com/obirimike">
     <img src="https://komarev.com/ghpvc/?username=obirimike&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/obirimike">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/obirimike">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=tokyonight" alt="Top languages" />
   </a>
 </p>
 
@@ -329,6 +323,36 @@ using an external weather API.
 > **"I know I will MAKE it, so I will NEVER stop believing."**
 >
 > — Myself
+
+---
+
+<!-- Move contributions, streaks, and top languages here (after Favorite Quote) -->
+
+<div align="center">
+
+<!-- Contributions calendar -->
+
+<p>
+  <img src="https://ghchart.rshah.org/obirimike" alt="GitHub contributions chart" />
+</p>
+
+<!-- Streak stats -->
+
+<p>
+  <a href="https://github.com/obirimike">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- Top languages (fixed URL: added hide_border and langs_count) -->
+
+<p>
+  <a href="https://github.com/obirimike">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  </a>
+</p>
+
+</div>
 
 ---
 
