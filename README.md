@@ -333,25 +333,16 @@ using an external weather API.
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
   </a>
 </p>
 
-
-
-### 🎯 Top Languages by Repository
-
-<p>
-  <a href="https://github.com/obirimike">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
 
 ### 📊 Most Used Languages by Commit
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" alt="Most Commit Language" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" alt="Most Commit Language" width="80%" />
   </a>
 </p>
 
