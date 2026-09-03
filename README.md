@@ -21,8 +21,7 @@ Building useful software, solving problems with code, and continuously learning.
   </a>
 </p>
 
-<!-- Keep profile views at the top; move streaks & top-langs to the end -->
-
+<!-- Profile Views -->
 <p>
   <a href="https://github.com/obirimike">
     <img src="https://komarev.com/ghpvc/?username=obirimike&style=flat-square" alt="Profile views" />
@@ -326,22 +325,47 @@ using an external weather API.
 
 ---
 
-<!-- Move contributions, streaks, and top languages here (after Favorite Quote) -->
+# 📊 GitHub Statistics
 
 <div align="center">
 
+### 🔥 Contribution Streak & Activity
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
   </a>
 </p>
 
-<!-- Top languages (fixed URL: added hide_border and langs_count) -->
+### 📈 GitHub Stats Overview
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=obirimike&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+### 🎯 Top Languages by Repository
+
+<p>
+  <a href="https://github.com/obirimike">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+### 📊 Most Used Languages by Commit
+
+<p>
+  <a href="https://github.com/obirimike">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" alt="Most Commit Language" width="100%" />
+  </a>
+</p>
+
+### 💡 Productivity Stats
+
+<p>
+  <a href="https://github.com/obirimike">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obirimike&theme=tokyonight" alt="Productive Time" width="100%" />
   </a>
 </p>
 
