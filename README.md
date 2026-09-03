@@ -341,7 +341,7 @@ using an external weather API.
 
 <p>
   <a href="https://github.com/obirimike">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?                                   username=obirimike&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
   </a>
 </p>
 
