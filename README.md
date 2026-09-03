@@ -330,13 +330,6 @@ using an external weather API.
 
 <div align="center">
 
-<!-- Contributions calendar -->
-
-<p>
-  <img src="https://ghchart.rshah.org/obirimike" alt="GitHub contributions chart" />
-</p>
-
-<!-- Streak stats -->
 
 <p>
   <a href="https://github.com/obirimike">
