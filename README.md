@@ -324,27 +324,65 @@ using an external weather API.
 > — Myself
 
 ---
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-### 🔥 Contribution Streak & Activity
+### 📈 GitHub Overview
 
-<p>
-  <a href="https://github.com/obirimike">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak"width="80%" />
-  </a>
-</p>
+<a href="https://github.com/obirimike">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=obirimike&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Michael's GitHub Stats"
+    height="180"
+  />
+</a>
 
+<a href="https://github.com/obirimike">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=obirimike&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Michael's Top Languages"
+    height="180"
+  />
+</a>
 
-### 📊 Most Used Languages by Commit
+<br/>
 
-<p>
-  <a href="https://github.com/obirimike">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" alt="Most Commit Language" width="80%" />
-  </a>
-</p>
+### 🔥 Contribution Streak
+
+<a href="https://github.com/obirimike">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=obirimike&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="80%"
+  />
+</a>
+
+<br/>
+
+### 📊 Contribution Activity
+
+<a href="https://github.com/obirimike">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obirimike&theme=tokyonight"
+    alt="GitHub Contribution Activity"
+    width="80%"
+  />
+</a>
+
+<br/>
+
+### 💻 Most Used Languages by Commit
+
+<a href="https://github.com/obirimike">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight"
+    alt="Most Used Languages by Commit"
+    width="80%"
+  />
+</a>
+
+</div>
 
 
 
