@@ -342,7 +342,7 @@ using an external weather API.
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" alt="Most Commit Language" width="80%" height="60%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" alt="Most Commit Language" width="80%" />
   </a>
 </p>
 
