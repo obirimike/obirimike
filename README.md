@@ -37,7 +37,7 @@ Building useful software, solving problems with code, and continuously learning.
 I'm a Computer Science student and software developer who loves
 modern, practical, and user-focused software.
 
-I enjoy working across different areas of software development; from
+I enjoy working across different areas of software development, from
 designing interfaces and building web and mobile applications to
 developing APIs, working with databases, exploring AI, and deploying
 applications.
