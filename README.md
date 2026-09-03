@@ -333,7 +333,7 @@ using an external weather API.
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=obirimike&theme=dark&hide_border=true" alt="GitHub Streak"width="80%" />
   </a>
 </p>
 
@@ -342,7 +342,7 @@ using an external weather API.
 
 <p>
   <a href="https://github.com/obirimike">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" alt="Most Commit Language" width="80%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" alt="Most Commit Language" width="80%" height="60%" />
   </a>
 </p>
 
