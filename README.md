@@ -337,13 +337,7 @@ using an external weather API.
   </a>
 </p>
 
-### 📈 GitHub Stats Overview
 
-<p>
-  <a href="https://github.com/obirimike">
-    <img src="https://github-readme-stats.vercel.app/api?username=obirimike&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
 
 ### 🎯 Top Languages by Repository
 
@@ -361,13 +355,7 @@ using an external weather API.
   </a>
 </p>
 
-### 💡 Productivity Stats
 
-<p>
-  <a href="https://github.com/obirimike">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=obirimike&theme=tokyonight" alt="Productive Time" width="100%" />
-  </a>
-</p>
 
 </div>
 
