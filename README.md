@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Michael Addo
+# 👋 Hi, I'm Michael Obiri
 
 ### 💻 Software Developer | Computer Science Student | Problem Solver
 
