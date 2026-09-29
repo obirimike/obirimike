@@ -374,13 +374,29 @@ using an external weather API.
 
 ### 💻 Most Used Languages by Commit
 
-<a href="https://github.com/obirimike">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight"
-    alt="Most Used Languages by Commit"
-    width="80%"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/obirimike">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obirimike&theme=tokyonight" 
+      alt="Top Languages by Repo" 
+      width="32%" 
+    />
+  </a>
+  <a href="https://github.com/obirimike">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obirimike&theme=tokyonight" 
+      alt="Top Languages by Commit" 
+      width="32%" 
+    />
+  </a>
+  <a href="https://github.com/obirimike">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=obirimike&theme=tokyonight" 
+      alt="GitHub Stats" 
+      width="32%" 
+    />
+  </a>
+</p>
 
 </div>
 
